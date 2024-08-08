@@ -9,10 +9,11 @@ Approach:
 . Filter out those missing chunk
 
 Input:
-. Containing the counted k-mers of each species 
+. Files containing the counted k-mers of each species 
+. A file named species.txt where the species name and the length of the genome sequences will be given.
+. 
 
 Output:
-. K-mers before filtering the missing chunk
 . K-mers after filtering the missing chunk
 
 Dataset:
